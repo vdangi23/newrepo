@@ -1,0 +1,2 @@
+# newrepo
+project for automation
